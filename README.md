@@ -1,3 +1,3 @@
 # androidCalculator
 
-![image](https://user-images.githubusercontent.com/28810701/46587293-672b7900-ca8a-11e8-92ec-a31b6b4cf8b5.png)
+![screenshot](https://user-images.githubusercontent.com/28810701/46587299-8b875580-ca8a-11e8-87d9-ed4d6a440c2f.png)
